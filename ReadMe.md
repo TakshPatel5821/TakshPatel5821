@@ -91,7 +91,6 @@ me.say_hi()
 ![Taksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TakshPatel5821&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TakshPatel5821&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TakshPatel5821&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
