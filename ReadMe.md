@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Taksh%20Patel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20AI%20%26%20Full-Stack&descAlignY=55&descSize=18" />
+# Hi, I'm Taksh Patel 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Taksh+%F0%9F%91%8B;I+build+AI+agents+%26+web+apps+%F0%9F%9A%80;Python+%7C+TypeScript+%7C+React;Always+shipping+something+new+%E2%9C%A8)](https://git.io/typing-svg)
+**Software Developer | AI Agents & Full-Stack | Python · TypeScript · React**
 
 </div>
 
@@ -21,8 +21,9 @@
 ## Featured Projects
 
 - **[Auto-Apply-AI](https://github.com/TakshPatel5821/Auto-Apply-AI)** - AI-powered job application agent that discovers roles, tailors ATS-optimized resumes, generates cover letters, and auto-applies
-- **[Data-Managemnet](https://github.com/TakshPatel5821/Data-Managemnet)** - Python library & CLI for tabular data management, operations, and analysis
-- **[Face-Recognition-Bot](https://github.com/TakshPatel5821/-Face-Recognition-Bot)** - Python face recognition bot
+- **[datakit](https://github.com/TakshPatel5821/datakit)** - Python library & CLI for tabular data management, operations, and analysis
+- **[live-weather](https://github.com/TakshPatel5821/live-weather)** - Interactive map-based live weather viewer (OpenLayers + PHP proxy)
+- **[face-recognition-bot](https://github.com/TakshPatel5821/face-recognition-bot)** - Python face recognition bot
 - **[Study-Notion-LMS](https://github.com/TakshPatel5821/Study-Notion-LMS)** - Full-stack ed-tech LMS platform built on the MERN stack
 
 ---
@@ -42,12 +43,9 @@
 
 **Languages**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 **Frameworks & Databases**
@@ -73,20 +71,6 @@
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TakshPatel5821/TakshPatel5821/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TakshPatel5821/TakshPatel5821/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TakshPatel5821/TakshPatel5821/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -95,8 +79,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TakshPatel5821&theme=tokyonight&hide_border=true&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=TakshPatel5821&theme=tokyonight&hide_border=true)
-
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
