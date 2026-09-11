@@ -78,12 +78,14 @@ Dallas-Fort Worth · Open to Software Engineering & Data roles (DFW, remote, or 
 
 ---
 
-## GitHub Stats
+## Contribution Activity
 
 <div align="center">
 
-![Taksh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TakshPatel5821&theme=tokyonight&hide_border=true&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TakshPatel5821&theme=tokyonight&hide_border=true&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TakshPatel5821/TakshPatel5821/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TakshPatel5821/TakshPatel5821/output/github-contribution-grid-snake.svg" />
+  <img alt="Taksh's contribution graph snake animation" src="https://raw.githubusercontent.com/TakshPatel5821/TakshPatel5821/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
