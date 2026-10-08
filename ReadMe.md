@@ -2,7 +2,7 @@
 
 # Hi, I'm Taksh Patel 👋
 
-**Software Engineer · Data & AI · Python · SQL · TypeScript**
+**Software & Data Engineer · RAG · Data Pipelines · Python · SQL · TypeScript**
 
 Dallas-Fort Worth · Open to Software Engineering & Data roles (DFW, remote, or relocation)
 
@@ -13,8 +13,8 @@ Dallas-Fort Worth · Open to Software Engineering & Data roles (DFW, remote, or 
 ## About Me
 
 - M.S. Software Engineering, The University of Texas at Arlington
-- 3 years as a Software Developer building backend services and an IoT monitoring pipeline
-- I build RAG & vector search systems (pgvector), data pipelines, and agentic LLM applications
+- 3 years as a Software Engineer at BrainyBeam: backend services, REST APIs, and an IoT pipeline carrying five live sensor streams into real-time dashboards
+- I build RAG and ETL systems for teams that need answers out of messy data: vector search (pgvector), data pipelines, and agentic LLM applications
 - I care about measured results: eval harnesses, test suites, and documented tradeoffs
 - Microsoft Azure certified (AZ-900)
 
@@ -23,7 +23,7 @@ Dallas-Fort Worth · Open to Software Engineering & Data roles (DFW, remote, or 
 ## Featured Projects
 
 - **[docs-rag](https://github.com/TakshPatel5821/docs-rag)** — Retrieval-augmented QA over SEC 10-K filings with FastAPI + PostgreSQL/pgvector. Built-in eval harness (100% source recall@5, 0.933 MRR), 70 tests.
-- **[Auto-Apply-AI](https://github.com/TakshPatel5821/Auto-Apply-AI)** — Full-stack AI job-application agent (Next.js, PostgreSQL/Prisma, Playwright) with fact-grounded résumé tailoring and human-in-the-loop auto-apply across 13+ ATS platforms. 222 tests.
+- **[Auto-Apply-AI](https://github.com/TakshPatel5821/Auto-Apply-AI)** — Full-stack AI job-application agent (Next.js, PostgreSQL/Prisma, Playwright) with fact-grounded résumé tailoring and human-in-the-loop auto-apply across 13+ ATS platforms. 222 tests, CI.
 - **[datakit](https://github.com/TakshPatel5821/datakit)** — Python library & CLI to load, clean, validate, profile, and chart tabular data, with scheduled YAML pipelines. 60 tests.
 - **[face-recognition-bot](https://github.com/TakshPatel5821/face-recognition-bot)** — Real-time face detection and recognition with OpenCV.
 
